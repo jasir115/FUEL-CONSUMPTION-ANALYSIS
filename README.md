@@ -54,8 +54,11 @@ Transmission, Fuel type, etc. and to create a U.I. for User to find the consumpt
   💻User Interface-
 </h2>
 - For user interface used streamlit library.
+<img width="1808" height="777" alt="Screenshot 2025-11-30 214638" src="https://github.com/user-attachments/assets/22dcd791-fa0f-4081-8bf6-d6e19bf75b59" />
+
 <br>
 <br>
+
 
 
 
